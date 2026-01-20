@@ -31,7 +31,7 @@ Tools and Platforms
 
 ## 📫 Contact & Links
 - 📧 Email: joekajib102001@gmail.com
-- 💼 LinkedIn:
+- 💼 LinkedIn: https://www.linkedin.com/feed/
 - 🧑‍💻 GitHub: https://github.com/Jokajib23
 
 ⭐ ⭐  I am open to internship, collaborations and junior software engineering opportunities. ⭐ ⭐   
