@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 I am passionate Software Engineering student with hands-on experience in Web development and Java programming
-Over the past years, I have worked on multiple academic projects including Employee Payroll Management System, Electoral Commision platforms, Students performance and Coffe shop.
+Over the past years, I have worked on multiple academic projects including Employee Payroll Management System, Electoral Commision platforms, Students performance and Coffe shop(file:///C:/AUCA%20notes/Web%20Design/about.html).
 I enjoy building systems that solve real-life problems and continously improving my technical and problem-solving skills.
 
 ## 🛠 Technical Skills
